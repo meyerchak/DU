@@ -7,4 +7,6 @@ To add to your calendar: https://meyerchak.github.io/DU2022/DUHockey.ics
 
 If you subscribe to DUHockey.ics updated game times will be pushed to your calendar automatically.
 
+No tracking, No Cookies, No metadata.
+
 Lets Go DU!
