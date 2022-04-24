@@ -1,4 +1,7 @@
-![DU Boone Banner](https://user-images.githubusercontent.com/8461530/164949195-fd5db2e8-02aa-496d-ac51-f9d4fa65c860.jpg)
+<a href="https://letsgodu.com">
+  <img  align="center"  src="https://user-images.githubusercontent.com/8461530/164949195-fd5db2e8-02aa-496d-ac51-f9d4fa65c860.jpg" alt="Deploy">
+</a>
+
 # Denver University 2022-2023 Hockey Schedule
 A Free Denver University Hockey Schedule .ics file.
 
@@ -11,6 +14,7 @@ If you subscribe to DUHockey.ics updated game times will be pushed to your calen
 ## Instructions:
 
 1.  Open your calendar app and select your calendars
+
 2.  Click on "Add Calendar"
 
 ![1s](https://user-images.githubusercontent.com/8461530/164957092-b9df7500-7a2f-423d-9647-2201e31fe0d6.jpeg)
@@ -32,3 +36,6 @@ If you subscribe to DUHockey.ics updated game times will be pushed to your calen
 ![5s](https://user-images.githubusercontent.com/8461530/164957327-b21d06c9-3aa2-4752-bf5b-6afddd262f25.jpeg)
 
 Lets Go DU!
+
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/meyerchak)
