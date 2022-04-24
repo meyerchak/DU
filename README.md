@@ -4,7 +4,7 @@ Denver University Hockey Schedule .ics
 
 Currently, game times are not available. 
 
-To add to your calendar: https://meyerchak.github.io/DU2022/DUHockey.ics
+To add to your calendar: https://meyerchak.github.io/DU/DUHockey.ics
 
 If you subscribe to DUHockey.ics updated game times will be pushed to your calendar automatically.
 
