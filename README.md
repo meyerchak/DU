@@ -1,4 +1,4 @@
-<p><a href="https://letsgodu.com"><img  align="center" target="_blank" rel="noopener noreferrer" src="https://user-images.githubusercontent.com/8461530/164949195-fd5db2e8-02aa-496d-ac51-f9d4fa65c860.jpg" alt="Deploy"></a></p>
+<a href="https://letsgodu.com"><img  align="center" target="_blank" rel="noopener noreferrer" src="https://user-images.githubusercontent.com/8461530/164949195-fd5db2e8-02aa-496d-ac51-f9d4fa65c860.jpg" alt="Deploy"></a>
 
 # Denver University 2022-2023 Hockey Schedule
 A Free Denver University Hockey Schedule .ics file.
