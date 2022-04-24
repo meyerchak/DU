@@ -33,4 +33,4 @@ If you subscribe to DUHockey.ics updated game times will be pushed to your calen
 
 ![5s](https://user-images.githubusercontent.com/8461530/164957327-b21d06c9-3aa2-4752-bf5b-6afddd262f25.jpeg)
 
-<a href="https://letsgodu.com"><img  align="center" src="https://user-images.githubusercontent.com/8461530/164987498-bcfcfd48-662a-4470-aa9f-5a0eae5bcc82.jpg"></a>
+<a href="https://letsgodu.com/category/hockey/"><img  align="center" src="https://user-images.githubusercontent.com/8461530/164987498-bcfcfd48-662a-4470-aa9f-5a0eae5bcc82.jpg"></a>
