@@ -1,4 +1,4 @@
-![DU Boone Banner](https://user-images.githubusercontent.com/8461530/164987481-23b8db4f-6a6b-480d-b32f-84e5ebcacac5.jpg)
+<a href="https://letsgodu.com/category/hockey/"><img  align="center" src="https://user-images.githubusercontent.com/8461530/164987498-bcfcfd48-662a-4470-aa9f-5a0eae5bcc82.jpg"></a>
 
 # Denver University 2022-2023 Hockey Schedule
 A Free Denver University Hockey Schedule .ics file.
