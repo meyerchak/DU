@@ -36,6 +36,3 @@ If you subscribe to DUHockey.ics updated game times will be pushed to your calen
 ![5s](https://user-images.githubusercontent.com/8461530/164957327-b21d06c9-3aa2-4752-bf5b-6afddd262f25.jpeg)
 
 Lets Go DU!
-
-
-![GitHub Sponsors](https://img.shields.io/github/sponsors/meyerchak)
