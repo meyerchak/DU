@@ -15,7 +15,7 @@ Currently, game times are not available
 
 Add the DU Hockey Schedule in your Calendar app subscriptions: https://meyerchak.github.io/DU/DUHockey.ics
 
-If you subscribe to DUHockey.ics updated game times will be pushed to your calendar automatically
+If you subscribe to DUHockey.ics updated game times will be pushed to your calendar automatically for Mountain Standard Time
 
 <h1 align="left">Instructions:</h1><p align="center">
  
