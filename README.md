@@ -10,7 +10,7 @@
 <h1 align="center">Denver University 2022-2023 Hockey Schedule</h1><p align="center"> 
 
 Denver University Mens Hockey subscription calendar for iPhone, Android, or any other calendar app.  All game times are MST.
-<h1 align="left">Instructions Below.</h1>
+<h1 align="left">Instructions.</h1>
  
 1.  Open your calendar app and select your calendars
 
