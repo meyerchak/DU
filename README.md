@@ -8,18 +8,11 @@
  <img src="https://user-images.githubusercontent.com/8461530/165676078-aaa84c95-840e-4b67-81fd-208bfa451b6d.png"/>
  <img src="https://user-images.githubusercontent.com/8461530/165676108-5e9d8eca-d7c6-4a5b-9fdc-ab619005563c.png"/>
 <h1 align="center">Denver University 2022-2023 Hockey Schedule</h1><p align="center"> 
+Denver University Mens Hockey Schedule for iPhone, Android, or any other calendar app.  All game times are Mountain Standard Time.
+<h1 align="left">Instructions to add the calendar.</h1>
 
-A Free Denver University Hockey Schedule .ics file
-
-Most Game Times Have Been Updated!
-
-Add the DU Hockey Schedule in your Calendar app subscriptions: https://meyerchak.github.io/DU/DUHockey.ics
-
-If you subscribe to DUHockey.ics updated game times will be pushed to your calendar automatically for Mountain Standard Time
-
-<h1 align="left">Instructions:</h1><p align="center">
- 
 1.  Open your calendar app and select your calendars
+
 
 ![iOS-8-calendar_icon_128x128](https://user-images.githubusercontent.com/8461530/165680966-09beb0c4-85e8-4cf9-a324-1d33903535e7.png)
  
