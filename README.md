@@ -11,7 +11,7 @@
 
 A Free Denver University Hockey Schedule .ics file
 
-Currently, game times are not available
+Most Game Times Have Benn Updated!
 
 Add the DU Hockey Schedule in your Calendar app subscriptions: https://meyerchak.github.io/DU/DUHockey.ics
 
