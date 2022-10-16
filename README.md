@@ -24,7 +24,7 @@ Denver University Mens Hockey subscription calendar for iPhone, Android, or any 
 
 ![2s](https://user-images.githubusercontent.com/8461530/164957100-23e65087-efb6-427d-a8b3-d43c2cc31d38.jpeg)
 
-4.  Under "SUBSCRIPTION URL", enter https://meyerchak/github.io/DU/DUHockey.ics and then click "Subscribe".  *(You can right-click or hold down on the link to copy and paste into subscription url)*
+4.  Under "SUBSCRIPTION URL", enter https://meyerchak.github.io/DU/DUHockey.ics and then click "Subscribe".  *(You can right-click or hold down on the link to copy and paste into subscription url)*
 
 ![3s](https://user-images.githubusercontent.com/8461530/164957201-d069ff9a-428a-4315-bbba-e81c17a01e15.jpeg)
 
